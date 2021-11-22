@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  font-family: Raleway, sans-serif;
+  margin-bottom: 0;
+}
+
+h1 {
+  color: white;
+  
+}
+p {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+
+.heading {
+  color: rgb(255,146,72);
+  font-size: 2rem;
+  position: relative;
+  left: 100px;
+  top: 10px;
+}
+
+
+.jhaat {
+  width: 40%;
+  margin-left: 100px;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.description {
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 30px;
+  margin-bottom: 0;
+
+  position: relative;
+  left: 55%;
+  bottom: 450px;
+}
+
+
+.info {
+  font-size: 1.25rem;
+  width: 23%;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.collection {
+  font-family: Avenir;
+  font-size: 4.5rem;
+  position: relative;
+  left: 20%;
+  bottom: 300px;
+}
+
+.buy {
+  color: black;
+  background-color: white;
+  text-align: center;
+  display: inline;
+  margin-bottom: 0;
+
+  padding: 12px;
+  
+  font-family: Raleway;
+  font-size: 0.9375rem;
+
+  position: relative;
+  left: 45%;
+  bottom: 350px;
+}
+
+.buy:hover {
+  cursor: pointer;
+  transition: 0.3s ease-in;
+  background-color: rgb(128, 128, 128);
+
+}
+
+
+.structure {
+  margin-bottom: 0;
+}
